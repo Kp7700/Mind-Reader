@@ -19,7 +19,7 @@ function mindReader() {
             output.innerHTML = "You're thinking of the number " + x;
         }, 6250);
     } else {
-        document.getElementById('output').innerHTML = "Ben ke lode pagal hai kya yahi maar dunga khatam kar dunga🤨";
+        document.getElementById('output').innerHTML = "Think Again About it🤨";
     }
 }
 
